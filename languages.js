@@ -7,7 +7,8 @@ const translations = {
     password: "Password",
     button: "Login",
     error: "Invalid credentials",
-    footer: "UIDAI Prototype | Hackathon Demo"
+    footer: "UIDAI Prototype | Hackathon Demo Designed & Developed by Mohammad Zakariya | mzakariya0007@gmail.com"
+
   },
   hi: {
     title: "स्मार्ट आधार केंद्र",
@@ -17,7 +18,7 @@ const translations = {
     password: "पासवर्ड",
     button: "लॉगिन",
     error: "गलत विवरण",
-    footer: "यूआईडीएआई प्रोटोटाइप"
+    footer: "यूआईडीएआई प्रोटोटाइप   Designed & Developed by Mohammad Zakariya | mzakariya0007@gmail.com"
   },
   bn: {
     title: "স্মার্ট আধার কেন্দ্র",
@@ -27,7 +28,7 @@ const translations = {
     password: "পাসওয়ার্ড",
     button: "লগইন",
     error: "ভুল তথ্য",
-    footer: "UIDAI প্রোটোটাইপ"
+    footer: "UIDAI প্রোটোটাইপ   Designed & Developed by Mohammad Zakariya | mzakariya0007@gmail.com "
   },
   mr: {
     title: "स्मार्ट आधार केंद्र",
@@ -37,7 +38,7 @@ const translations = {
     password: "पासवर्ड",
     button: "लॉगिन",
     error: "चुकीची माहिती",
-    footer: "UIDAI प्रोटोटाइप"
+    footer: "UIDAI प्रोटोटाइप   Designed & Developed by Mohammad Zakariya | mzakariya0007@gmail.com"
   },
   te: {
     title: "స్మార్ట్ ఆధార్ కేంద్రం",
@@ -47,7 +48,7 @@ const translations = {
     password: "పాస్వర్డ్",
     button: "లాగిన్",
     error: "తప్పు వివరాలు",
-    footer: "UIDAI ప్రోటోటైప్"
+    footer: "UIDAI ప్రోటోటైప్ Designed & Developed by Mohammad Zakariya | mzakariya0007@gmail.com"
   },
   ta: {
     title: "ஸ்மார்ட் ஆதார் மையம்",
@@ -57,7 +58,7 @@ const translations = {
     password: "கடவுச்சொல்",
     button: "உள்நுழை",
     error: "தவறான விவரங்கள்",
-    footer: "UIDAI மாதிரி"
+    footer: "UIDAI மாதிரி  Designed & Developed by Mohammad Zakariya | mzakariya0007@gmail.com"
   },
   ur: {
     title: "اسمارٹ آدھار مرکز",
@@ -67,7 +68,7 @@ const translations = {
     password: "پاس ورڈ",
     button: "لاگ ان",
     error: "غلط معلومات",
-    footer: "UIDAI پروٹوٹائپ"
+    footer: "UIDAI پروٹوٹائپ  Designed & Developed by Mohammad Zakariya | mzakariya0007@gmail.com"
   },
   pa: {
     title: "ਸਮਾਰਟ ਆਧਾਰ ਕੇਂਦਰ",
@@ -77,6 +78,6 @@ const translations = {
     password: "ਪਾਸਵਰਡ",
     button: "ਲਾਗਇਨ",
     error: "ਗਲਤ ਜਾਣਕਾਰੀ",
-    footer: "UIDAI ਪ੍ਰੋਟੋਟਾਈਪ"
+    footer: "UIDAI ਪ੍ਰੋਟੋਟਾਈਪ  Designed & Developed by Mohammad Zakariya | mzakariya0007@gmail.com"
   }
 };
